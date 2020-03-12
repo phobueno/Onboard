@@ -27,4 +27,5 @@ class Usuario(object):
 
 
 class Teleconsultoria:
+    print("batata")
     pass
