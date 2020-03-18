@@ -18,3 +18,4 @@ Se difere do padrão GET pois a solicitação no GET é feita a um servidor e re
 É utilizado tabulamento de dados em uma query para que os resultados da consulta ao banco de dados estejam dispostos da maneira ideal.
 III)
 O mutation serve para realizar manipulação de dados, já o query serve para definir os termos de pesquisa no banco de dados.
+Mutations são mais parecidos com PATCH e PUT do que POST, o o POST realiza a submissão dos dados, já o mutation altera e manipula os dados, fazendo uma atualização dos dados no servidor.
