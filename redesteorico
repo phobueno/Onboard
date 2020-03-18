@@ -12,3 +12,9 @@ PATCH- Utilizado para fazer atualizações parciais de um recurso no servidor (n
 DELETE- Utilizado para remover recursos do servidor
 
 b)
+I)
+II)Queries são solicitações, dúvidas feitas ao banco de dados, que podem ter como resposta uma tabela ou figuras/gráficos.
+Se difere do padrão GET pois a solicitação no GET é feita a um servidor e retorna um HTML ou um erro, já no query a solicitação é feita para um banco de dados e retorna tabelas/graficos
+É utilizado tabulamento de dados em uma query para que os resultados da consulta ao banco de dados estejam dispostos da maneira ideal.
+III)
+O mutation serve para realizar manipulação de dados, já o query serve para definir os termos de pesquisa no banco de dados.
