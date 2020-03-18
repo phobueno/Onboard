@@ -1,0 +1,14 @@
+a)
+Representational State Transfer - REST
+Se tornou padrão de comunicação entre sites pois permite uma aplicação dos mesmos conjunto de regras para diversos dispositivos de maneira escalável.
+I)
+http://www.telessauders.com/listausuarios
+http://www..telessauders.com/listausuarios/pedro
+
+II)GET- Utilizado para solicitar um recurso do servidor, a resposta será em HTML em aplicações WEB
+POST- Utilizado para fazer submissões no servidor, como formulários, cadastros e surveys.
+PUT- Utilizado para fazer a atualização de um recurso no servidor (não entendi direito esse)
+PATCH- Utilizado para fazer atualizações parciais de um recurso no servidor (não entendi direito também)
+DELETE- Utilizado para remover recursos do servidor
+
+b)
